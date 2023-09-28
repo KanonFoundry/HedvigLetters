@@ -14,7 +14,7 @@ value = KNON;
 date = "2021-12-21 15:12:18 +0000";
 designer = "Alexander Örn & Tor Weibull";
 designerURL = "http://www.kanonfoundry.com";
-familyName = "Hedvig Letters";
+familyName = "Hedvig Letters Big";
 featurePrefixes = (
 {
 automatic = 1;
@@ -144,6 +144,7 @@ verticalStems = (
 94,
 90
 );
+weightValue = 400;
 xHeight = 520;
 }
 );
@@ -10614,7 +10615,7 @@ unicode = 0064;
 },
 {
 glyphname = eth;
-lastChange = "2021-12-20 12:43:13 +0000";
+lastChange = "2023-09-28 14:52:18 +0000";
 layers = (
 {
 associatedMasterId = m004;
@@ -11092,10 +11093,8 @@ nodes = (
 "525 278 CURVE SMOOTH",
 "525 313 OFFCURVE",
 "509 357 OFFCURVE",
-"479 392 CURVE SMOOTH",
-"469 404 OFFCURVE",
-"455 378 OFFCURVE",
-"443 388 CURVE",
+"479 392 CURVE",
+"443 388 LINE",
 "422 438 OFFCURVE",
 "358 477 OFFCURVE",
 "277 477 CURVE SMOOTH",
@@ -31020,10 +31019,11 @@ unicode = 02DB;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 m004 = 1;
 };
-name = Big;
+name = Regular;
 }
 );
 kerning = {

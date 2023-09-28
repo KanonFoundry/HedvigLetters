@@ -14,7 +14,7 @@ value = KNON;
 date = "2021-12-21 15:11:59 +0000";
 designer = "Alexander Örn & Tor Weibull";
 designerURL = "http://www.kanonfoundry.com";
-familyName = "Hedvig Letters";
+familyName = "Hedvig Letters Small";
 featurePrefixes = (
 {
 automatic = 1;
@@ -142,6 +142,7 @@ verticalStems = (
 94,
 90
 );
+weightValue = 400;
 xHeight = 520;
 }
 );
@@ -14166,7 +14167,7 @@ unicode = 0219;
 },
 {
 glyphname = germandbls;
-lastChange = "2021-12-20 13:44:10 +0000";
+lastChange = "2021-12-20 09:53:21 +0000";
 layers = (
 {
 anchors = (
@@ -16818,7 +16819,7 @@ rightMetricsKey = f;
 {
 color = 3;
 glyphname = f_f_i;
-lastChange = "2021-12-20 15:07:39 +0000";
+lastChange = "2021-12-22 09:18:20 +0000";
 layers = (
 {
 anchors = (
@@ -27764,10 +27765,11 @@ unicode = 02DB;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 "CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 1;
 };
-name = Small;
+name = Regular;
 }
 );
 kerning = {
