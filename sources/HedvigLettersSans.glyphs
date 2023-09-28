@@ -1,6 +1,6 @@
 {
 .appVersion = "3219";
-copyright = "Copyright © 2021 by KF Digital Typefaces AB. All rights reserved.";
+copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -9,6 +9,14 @@ value = 1;
 {
 name = vendorID;
 value = KNON;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2021-12-21 15:12:09 +0000";
@@ -126,6 +134,10 @@ value = -260;
 {
 name = hheaDescender;
 value = -260;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 descender = -257;
