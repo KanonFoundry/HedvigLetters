@@ -1,5 +1,8 @@
 {
 .appVersion = "3219";
+DisplayStrings = (
+"¡H¿H"
+);
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
 {
@@ -103,8 +106,7 @@ name = ss01;
 notes = "Name: Hedvig Logo Replace";
 },
 {
-automatic = 1;
-code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
+code = "pos [exclamdown questiondown] <0 180 0 0>;\012sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
 name = case;
 }
 );
@@ -15680,7 +15682,7 @@ unicode = 003F;
 {
 color = 10;
 glyphname = questiondown;
-lastChange = "2023-09-29 08:46:29 +0000";
+lastChange = "2023-09-29 08:58:52 +0000";
 layers = (
 {
 components = (

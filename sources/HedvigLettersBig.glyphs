@@ -103,8 +103,7 @@ name = ss01;
 notes = "Name: Hedvig Logo Replace";
 },
 {
-automatic = 1;
-code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
+code = "pos [exclamdown questiondown] <0 180 0 0>;\012sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
 name = case;
 }
 );

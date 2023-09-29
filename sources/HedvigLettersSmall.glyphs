@@ -38,7 +38,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature calt;\012feature ss01;\012";
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature calt;\012feature ss01;\012feature case;\012";
 name = aalt;
 },
 {
@@ -103,8 +103,7 @@ name = ss01;
 notes = "Name: Hedvig Logo Replace";
 },
 {
-automatic = 1;
-code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
+code = "pos [exclamdown questiondown] <0 180 0 0>;\012sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
 name = case;
 }
 );
