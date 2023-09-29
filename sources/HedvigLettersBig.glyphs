@@ -62,11 +62,12 @@ code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoin
 name = sinf;
 },
 {
-code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012\012sub copyright by copyright.sup;\012sub registered by registered.sup;\012sub trademark by trademark.sup;\012sub H.circled by H.circled.sup;\012sub asterisk H asterisk by H.circled.sup;";
+automatic = 1;
+code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012sub copyright by copyright.sups;\012sub registered by registered.sups;\012sub trademark by trademark.sups;\012sub H.circled by H.circled.sups;\012";
 name = sups;
 },
 {
-code = "sub zero by zero.numr;\012sub one by one.numr;\012sub two by two.numr;\012sub three by three.numr;\012sub four by four.numr;\012sub five by five.numr;\012sub six by six.numr;\012sub seven by seven.numr;\012sub eight by eight.numr;\012sub nine by nine.numr;\012\012sub copyright by copyright.sup;\012sub registered by registered.sup;\012sub trademark by trademark.sup;\012sub H.circled by H.circled.sup;\012sub asterisk H asterisk by H.circled.sup;";
+code = "sub zero by zero.numr;\012sub one by one.numr;\012sub two by two.numr;\012sub three by three.numr;\012sub four by four.numr;\012sub five by five.numr;\012sub six by six.numr;\012sub seven by seven.numr;\012sub eight by eight.numr;\012sub nine by nine.numr;\012\012sub copyright by copyright.sups;\012sub registered by registered.sups;\012sub trademark by trademark.sups;\012sub H.circled by H.circled.sups;\012sub asterisk H asterisk by H.circled.sups;\012";
 name = numr;
 },
 {
@@ -27280,8 +27281,8 @@ unicode = 2021;
 },
 {
 color = 6;
-glyphname = copyright.sup;
-lastChange = "2023-09-29 08:53:25 +0000";
+glyphname = copyright.sups;
+lastChange = "2023-09-29 09:02:11 +0000";
 layers = (
 {
 layerId = m004;
@@ -27360,8 +27361,8 @@ width = 502;
 },
 {
 color = 6;
-glyphname = registered.sup;
-lastChange = "2023-09-29 08:53:25 +0000";
+glyphname = registered.sups;
+lastChange = "2023-09-29 09:02:11 +0000";
 layers = (
 {
 layerId = m004;
@@ -27469,8 +27470,8 @@ width = 502;
 },
 {
 color = 6;
-glyphname = trademark.sup;
-lastChange = "2023-09-29 08:53:25 +0000";
+glyphname = trademark.sups;
+lastChange = "2023-09-29 09:02:11 +0000";
 layers = (
 {
 guideLines = (
@@ -27743,8 +27744,8 @@ unicode = 24BD;
 },
 {
 color = 6;
-glyphname = H.circled.sup;
-lastChange = "2023-09-29 08:53:25 +0000";
+glyphname = H.circled.sups;
+lastChange = "2023-09-29 09:02:11 +0000";
 layers = (
 {
 layerId = m004;
@@ -32499,7 +32500,7 @@ x = -8;
 "@MMK_R_uni2070" = 105;
 "@MMK_R_w" = 13;
 "@MMK_R_y" = 20;
-H.circled.sup = 120;
+H.circled.sups = 120;
 M = 40;
 V = 102;
 X = 88;
@@ -32513,7 +32514,7 @@ atilde = 2;
 backslash = 131;
 braceright = 118;
 bracketright = 126;
-copyright.sup = 120;
+copyright.sups = 120;
 dagger = 32;
 daggerdbl = 13;
 exclam = 49;
@@ -32535,7 +32536,7 @@ parenright = 129;
 periodcentered = -30;
 question = 82;
 rcaron = 49;
-registered.sup = 120;
+registered.sups = 120;
 scaron = 39;
 seven = 100;
 sevensuperior = 122;
@@ -32543,7 +32544,7 @@ six = -6;
 slash = -40;
 threesuperior = 117;
 trademark = 144;
-trademark.sup = 120;
+trademark.sups = 120;
 twosuperior = 124;
 underscore = -54;
 v = 15;
