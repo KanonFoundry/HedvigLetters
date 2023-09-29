@@ -7,6 +7,11 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+name = fsType;
+value = (
+);
+},
+{
 name = vendorID;
 value = KNON;
 },
@@ -1497,7 +1502,7 @@ unicode = 011C;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2021-12-20 10:22:11 +0000";
+lastChange = "2021-12-20 10:22:53 +0000";
 layers = (
 {
 components = (
@@ -1924,7 +1929,7 @@ unicode = 012A;
 {
 color = 0;
 glyphname = Iogonek;
-lastChange = "2021-12-20 10:54:48 +0000";
+lastChange = "2021-12-20 10:22:53 +0000";
 layers = (
 {
 components = (
