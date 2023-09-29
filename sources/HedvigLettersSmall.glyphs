@@ -139,6 +139,14 @@ value = -260;
 {
 name = hheaDescender;
 value = -260;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -257;
