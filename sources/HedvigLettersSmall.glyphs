@@ -1,5 +1,8 @@
 {
 .appVersion = "3219";
+DisplayStrings = (
+""
+);
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
 {
