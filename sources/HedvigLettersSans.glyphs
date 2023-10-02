@@ -1,5 +1,8 @@
 {
 .appVersion = "3220";
+DisplayStrings = (
+"/Eng/eng"
+);
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
 {
@@ -2295,10 +2298,37 @@ unicode = 00D1;
 },
 {
 glyphname = Eng;
+lastChange = "2023-10-02 13:36:15 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"536 -247 LINE SMOOTH",
+"624 -247 OFFCURVE",
+"664 -220 OFFCURVE",
+"664 -111 CURVE SMOOTH",
+"664 700 LINE",
+"578 700 LINE",
+"578 131 LINE",
+"198 700 LINE",
+"90 700 LINE",
+"90 0 LINE",
+"176 0 LINE",
+"176 584 LINE",
+"574 -10 LINE",
+"574 -104 LINE SMOOTH",
+"574 -172 OFFCURVE",
+"556 -177 OFFCURVE",
+"507 -177 CURVE SMOOTH",
+"446 -177 LINE",
+"446 -247 LINE"
+);
+}
+);
+width = 754;
 }
 );
 unicode = 014A;
@@ -6738,10 +6768,47 @@ unicode = 00F1;
 },
 {
 glyphname = eng;
+lastChange = "2023-10-02 13:36:56 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"386 -247 LINE SMOOTH",
+"474 -247 OFFCURVE",
+"514 -220 OFFCURVE",
+"514 -111 CURVE SMOOTH",
+"514 340 LINE SMOOTH",
+"514 472 OFFCURVE",
+"441 530 OFFCURVE",
+"328 530 CURVE SMOOTH",
+"261 530 OFFCURVE",
+"190 501 OFFCURVE",
+"157 423 CURVE",
+"167 415 LINE",
+"167 520 LINE",
+"82 520 LINE",
+"82 0 LINE",
+"172 0 LINE",
+"172 301 LINE SMOOTH",
+"172 420 OFFCURVE",
+"237 457 OFFCURVE",
+"311 457 CURVE SMOOTH",
+"377 457 OFFCURVE",
+"424 424 OFFCURVE",
+"424 320 CURVE SMOOTH",
+"424 -104 LINE SMOOTH",
+"424 -172 OFFCURVE",
+"406 -177 OFFCURVE",
+"357 -177 CURVE SMOOTH",
+"296 -177 LINE",
+"296 -247 LINE"
+);
+}
+);
+width = 590;
 }
 );
 unicode = 014B;
