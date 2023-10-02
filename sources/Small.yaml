@@ -1,0 +1,5 @@
+sources:
+  - HedvigLettersSmall.glyphs
+buildVariable: false
+familyName: "Hedvig Letters Small"
+outputDir: ../fonts/HedvigLettersSmall

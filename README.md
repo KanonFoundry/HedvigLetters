@@ -14,13 +14,28 @@ The way we approached the concept was to imagine the letters from a “non-type-
 
 So to embrace the mistakes, or in this case the imperfections — we decided not to apply this kind of corrections, where the letterforms allowed it. And this resulted in a typeface where some letters have a slightly odd, yet characteristic look that effectively communicates Hedvig’s design philosophy.
 
-## Pre-building the Fonts
-
-Xxx
 
 ## Building the Fonts
 
-Xxx
+First step is to install gftools in a virtual environment —anywhere but preferably in your local clone of the repo, and not in a (i)cloud:
+
+```
+$ python3 -m venv env
+$ source env/bin/activate
+$ pip install gftools
+````
+For that you need of course to have Python already installed. If you have doubt about how to use a virtual environment and gftools, check this chapter of the Google Fonts Guide: https://googlefonts.github.io/gf-guide/tools.html
+
+Then, you can build the fonts with these commands:
+
+```
+$ cd path/to/sources
+$ gftools builder sans.yaml
+$ gftools builder small.yaml
+$ gftools builder big.yaml
+````
+
+Make sure you always activate the virtual env beforehand, each time you want to build: `$ source env/bin/activate`
 
 ## License
 
