@@ -1,5 +1,5 @@
 {
-.appVersion = "3219";
+.appVersion = "3220";
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
 {
@@ -2578,6 +2578,16 @@ width = 817;
 leftKerningGroup = N;
 rightKerningGroup = N;
 unicode = 00D1;
+},
+{
+glyphname = Eng;
+layers = (
+{
+layerId = m004;
+width = 600;
+}
+);
+unicode = 014A;
 },
 {
 color = 6;
@@ -7401,6 +7411,16 @@ width = 624;
 leftKerningGroup = n;
 rightKerningGroup = n;
 unicode = 00F1;
+},
+{
+glyphname = eng;
+layers = (
+{
+layerId = m004;
+width = 600;
+}
+);
+unicode = 014B;
 },
 {
 color = 6;
