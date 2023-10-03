@@ -1,7 +1,7 @@
 {
-.appVersion = "3220";
+.appVersion = "3208";
 DisplayStrings = (
-"/Eng/eng"
+"N/Eng j/eng"
 );
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
@@ -2298,7 +2298,7 @@ unicode = 00D1;
 },
 {
 glyphname = Eng;
-lastChange = "2023-10-02 13:36:15 +0000";
+lastChange = "2023-10-03 07:45:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -2312,17 +2312,17 @@ nodes = (
 "664 -111 CURVE SMOOTH",
 "664 700 LINE",
 "578 700 LINE",
-"578 131 LINE",
+"578 135 LINE",
 "198 700 LINE",
 "90 700 LINE",
 "90 0 LINE",
 "176 0 LINE",
 "176 584 LINE",
-"574 -10 LINE",
-"574 -104 LINE SMOOTH",
-"574 -172 OFFCURVE",
-"556 -177 OFFCURVE",
-"507 -177 CURVE SMOOTH",
+"578 -11 LINE",
+"578 -104 LINE SMOOTH",
+"578 -172 OFFCURVE",
+"560 -177 OFFCURVE",
+"511 -177 CURVE SMOOTH",
 "446 -177 LINE",
 "446 -247 LINE"
 );
@@ -2331,6 +2331,10 @@ nodes = (
 width = 754;
 }
 );
+leftKerningGroup = N;
+leftMetricsKey = N;
+rightKerningGroup = N;
+rightMetricsKey = N;
 unicode = 014A;
 },
 {
@@ -6768,7 +6772,7 @@ unicode = 00F1;
 },
 {
 glyphname = eng;
-lastChange = "2023-10-02 13:36:56 +0000";
+lastChange = "2023-10-03 07:45:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -6811,6 +6815,10 @@ nodes = (
 width = 590;
 }
 );
+leftKerningGroup = n;
+leftMetricsKey = n;
+rightKerningGroup = n;
+rightMetricsKey = n;
 unicode = 014B;
 },
 {

@@ -1,7 +1,7 @@
 {
-.appVersion = "3220";
+.appVersion = "3208";
 DisplayStrings = (
-"/Eng/eng"
+"J/Eng/eng"
 );
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
@@ -2674,16 +2674,76 @@ unicode = 00D1;
 },
 {
 glyphname = Eng;
-lastChange = "2023-10-02 13:39:07 +0000";
+lastChange = "2023-10-03 07:44:02 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"659 -257 OFFCURVE",
+"713 -193 OFFCURVE",
+"713 -53 CURVE SMOOTH",
+"716 582 LINE SMOOTH",
+"716 647 OFFCURVE",
+"728 662 OFFCURVE",
+"785 668 CURVE SMOOTH",
+"806 670 LINE",
+"806 700 LINE",
+"568 700 LINE",
+"568 670 LINE",
+"589 669 LINE SMOOTH",
+"652 666 OFFCURVE",
+"667 650 OFFCURVE",
+"668 582 CURVE SMOOTH",
+"672 153 LINE",
+"216 700 LINE",
+"49 700 LINE",
+"49 670 LINE",
+"70 668 LINE SMOOTH",
+"131 662 OFFCURVE",
+"147 647 OFFCURVE",
+"147 592 CURVE SMOOTH",
+"144 108 LINE SMOOTH",
+"144 53 OFFCURVE",
+"131 38 OFFCURVE",
+"75 32 CURVE SMOOTH",
+"54 30 LINE",
+"54 0 LINE",
+"292 0 LINE",
+"292 30 LINE",
+"271 31 LINE SMOOTH",
+"209 34 OFFCURVE",
+"193 49 OFFCURVE",
+"192 108 CURVE SMOOTH",
+"187 591 LINE",
+"672 8 LINE",
+"672 -53 LINE SMOOTH",
+"672 -148 OFFCURVE",
+"648 -201 OFFCURVE",
+"605 -201 CURVE SMOOTH",
+"598 -201 OFFCURVE",
+"591 -199 OFFCURVE",
+"580 -196 CURVE SMOOTH",
+"496 -163 LINE SMOOTH",
+"469 -153 OFFCURVE",
+"437 -177 OFFCURVE",
+"437 -205 CURVE SMOOTH",
+"437 -237 OFFCURVE",
+"477 -257 OFFCURVE",
+"541 -257 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "CFBFE906-6BC9-42DE-B086-7F9578F7A428";
 paths = (
 {
 closed = 1;
 nodes = (
-"688 -257 OFFCURVE",
-"715 -158 OFFCURVE",
+"665 -257 OFFCURVE",
+"715 -195 OFFCURVE",
 "716 -43 CURVE SMOOTH",
 "720 582 LINE SMOOTH",
 "720 634 OFFCURVE",
@@ -2720,25 +2780,29 @@ nodes = (
 "199 580 LINE",
 "668 16 LINE",
 "668 -45 LINE SMOOTH",
-"668 -126 OFFCURVE",
-"646 -191 OFFCURVE",
-"598 -191 CURVE SMOOTH",
-"591 -191 OFFCURVE",
-"576 -190 OFFCURVE",
-"563 -185 CURVE SMOOTH",
-"493 -160 LINE SMOOTH",
-"460 -148 OFFCURVE",
-"420 -164 OFFCURVE",
-"420 -206 CURVE SMOOTH",
-"420 -237 OFFCURVE",
-"459 -257 OFFCURVE",
-"534 -257 CURVE SMOOTH"
+"668 -144 OFFCURVE",
+"649 -191 OFFCURVE",
+"608 -191 CURVE SMOOTH",
+"595 -191 OFFCURVE",
+"581 -188 OFFCURVE",
+"573 -185 CURVE SMOOTH",
+"503 -160 LINE SMOOTH",
+"480 -152 OFFCURVE",
+"440 -168 OFFCURVE",
+"440 -202 CURVE SMOOTH",
+"440 -237 OFFCURVE",
+"480 -257 OFFCURVE",
+"544 -257 CURVE SMOOTH"
 );
 }
 );
 width = 856;
 }
 );
+leftKerningGroup = N;
+leftMetricsKey = N;
+rightKerningGroup = N;
+rightMetricsKey = N;
 unicode = 014A;
 },
 {
@@ -7603,7 +7667,7 @@ unicode = 00F1;
 },
 {
 glyphname = eng;
-lastChange = "2023-10-02 13:33:43 +0000";
+lastChange = "2023-10-03 07:42:19 +0000";
 layers = (
 {
 layerId = "CFBFE906-6BC9-42DE-B086-7F9578F7A428";
@@ -7665,9 +7729,13 @@ nodes = (
 );
 }
 );
-width = 653;
+width = 620;
 }
 );
+leftKerningGroup = n;
+leftMetricsKey = n;
+rightKerningGroup = j;
+rightMetricsKey = j;
 unicode = 014B;
 },
 {
