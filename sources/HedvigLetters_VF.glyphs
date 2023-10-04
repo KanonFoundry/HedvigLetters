@@ -79,8 +79,8 @@ value = "Hedvig is a trademark of Hedvig AB (https://www.hedvig.com/se-en)";
 name = Axes;
 value = (
 {
-Name = Weight;
-Tag = wght;
+Name = "Optical size";
+Tag = opsz;
 }
 );
 }
@@ -33979,6 +33979,13 @@ instanceInterpolations = {
 "CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 0;
+instanceInterpolations = {
+m004 = 1;
+};
+name = Big;
 }
 );
 kerning = {

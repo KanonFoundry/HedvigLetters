@@ -1,7 +1,9 @@
 {
 .appVersion = "3208";
 DisplayStrings = (
-"N/Eng nij/eng i"
+"N/Eng nij/eng i",
+"/gravecomb/acutecomb",
+"/acutecomb"
 );
 copyright = "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)";
 customParameters = (
@@ -18016,7 +18018,7 @@ unicode = 0300;
 {
 color = 6;
 glyphname = acutecomb;
-lastChange = "2023-09-29 09:16:23 +0000";
+lastChange = "2023-10-04 12:59:13 +0000";
 layers = (
 {
 anchors = (
@@ -18034,21 +18036,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"334 634 LINE SMOOTH",
-"352 644 OFFCURVE",
-"366 652 OFFCURVE",
-"380 664 CURVE SMOOTH",
-"390 673 OFFCURVE",
-"396 684 OFFCURVE",
-"396 695 CURVE SMOOTH",
-"396 718 OFFCURVE",
-"378 737 OFFCURVE",
-"356 737 CURVE SMOOTH",
-"339 737 OFFCURVE",
-"321 726 OFFCURVE",
-"289 688 CURVE SMOOTH",
-"205 588 LINE",
-"221 568 LINE"
+"335 634 LINE SMOOTH",
+"353 644 OFFCURVE",
+"367 652 OFFCURVE",
+"381 664 CURVE SMOOTH",
+"400 680 OFFCURVE",
+"402 704 OFFCURVE",
+"386 723 CURVE SMOOTH",
+"371 741 OFFCURVE",
+"346 744 OFFCURVE",
+"328 728 CURVE SMOOTH",
+"314 716 OFFCURVE",
+"303 703 OFFCURVE",
+"290 688 CURVE SMOOTH",
+"206 588 LINE",
+"222 568 LINE"
 );
 }
 );
