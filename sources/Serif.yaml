@@ -1,0 +1,26 @@
+sources:
+  - HedvigLettersSerif.glyphs
+buildVariable: true
+familyName: "Hedvig Letters Serif"
+outputDir: ../fonts/HedvigLettersSerif
+axisOrder:
+  - opsz
+  - wght
+stat:
+  - name: Optical Size
+    tag: opsz
+    values:
+    - name: 12pt
+      value: 12
+    - name: 14pt
+      value: 14
+    - name: 18pt
+      value: 18
+    - name: 24pt
+      value: 24
+  - name: Weight
+    tag: wght
+    values:
+    - name: Regular
+      value: 400
+      flags: 2
