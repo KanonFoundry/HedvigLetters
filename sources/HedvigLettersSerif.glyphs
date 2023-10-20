@@ -1,6 +1,9 @@
 {
 .appVersion = "3222";
 .formatVersion = 3;
+DisplayStrings = (
+Hj
+);
 axes = (
 {
 name = "Optical size";
@@ -296,7 +299,7 @@ value = 1020;
 },
 {
 name = winDescent;
-value = 260;
+value = 320;
 },
 {
 name = typoAscender;
@@ -308,11 +311,11 @@ value = 1020;
 },
 {
 name = typoDescender;
-value = -260;
+value = -320;
 },
 {
 name = hheaDescender;
-value = -260;
+value = -320;
 },
 {
 name = typoLineGap;
@@ -370,7 +373,7 @@ value = 1020;
 },
 {
 name = winDescent;
-value = 260;
+value = 320;
 },
 {
 name = typoAscender;
@@ -382,11 +385,11 @@ value = 1020;
 },
 {
 name = typoDescender;
-value = -260;
+value = -320;
 },
 {
 name = hheaDescender;
-value = -260;
+value = -320;
 },
 {
 name = typoLineGap;
