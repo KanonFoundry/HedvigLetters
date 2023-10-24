@@ -1,9 +1,6 @@
 {
-.appVersion = "3222";
+.appVersion = "3223";
 .formatVersion = 3;
-DisplayStrings = (
-Hj
-);
 axes = (
 {
 name = "Optical size";
@@ -23,6 +20,15 @@ value = (
 {
 name = "Variable Font Origin";
 value = m004;
+},
+{
+name = "Axis Mappings";
+value = {
+opsz = {
+12 = 12;
+24 = 24;
+};
+};
 }
 );
 date = "2021-12-21 15:11:59 +0000";
@@ -34085,6 +34091,50 @@ values = (
 {
 language = dflt;
 value = "Hedvig Letters Serif 12pt";
+}
+);
+}
+);
+},
+{
+axesValues = (
+14
+);
+exports = 0;
+instanceInterpolations = {
+"CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 0.83333;
+m004 = 0.16667;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Hedvig Letters Serif 14pt";
+}
+);
+}
+);
+},
+{
+axesValues = (
+18
+);
+exports = 0;
+instanceInterpolations = {
+"CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 0.5;
+m004 = 0.5;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Hedvig Letters Serif 18pt";
 }
 );
 }
