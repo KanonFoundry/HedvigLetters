@@ -34098,6 +34098,50 @@ value = "Hedvig Letters Serif 12pt";
 },
 {
 axesValues = (
+14
+);
+exports = 0;
+instanceInterpolations = {
+"CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 0.83333;
+m004 = 0.16667;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Hedvig Letters Serif 14pt";
+}
+);
+}
+);
+},
+{
+axesValues = (
+18
+);
+exports = 0;
+instanceInterpolations = {
+"CFBFE906-6BC9-42DE-B086-7F9578F7A428" = 0.5;
+m004 = 0.5;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Hedvig Letters Serif 18pt";
+}
+);
+}
+);
+},
+{
+axesValues = (
 24
 );
 exports = 0;
