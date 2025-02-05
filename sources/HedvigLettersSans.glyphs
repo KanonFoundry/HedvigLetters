@@ -1,8 +1,8 @@
 {
-.appVersion = "3222";
+.appVersion = "3342";
 .formatVersion = 3;
 DisplayStrings = (
-Hj
+Hh
 );
 axes = (
 {
@@ -321,10 +321,6 @@ id = m01;
 metricValues = (
 {
 over = 10;
-pos = 800;
-},
-{
-over = 10;
 pos = 700;
 },
 {
@@ -335,8 +331,8 @@ pos = 520;
 over = -10;
 },
 {
-over = 10;
-pos = -257;
+over = -10;
+pos = -247;
 },
 {
 }
@@ -19455,9 +19451,6 @@ underscore = -19;
 metrics = (
 {
 type = ascender;
-},
-{
-type = "cap height";
 },
 {
 type = "x-height";

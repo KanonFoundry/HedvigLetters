@@ -1,6 +1,9 @@
 {
-.appVersion = "3223";
+.appVersion = "3342";
 .formatVersion = 3;
+DisplayStrings = (
+p
+);
 axes = (
 {
 name = "Optical size";
@@ -350,8 +353,8 @@ pos = 520;
 over = -10;
 },
 {
-over = 10;
-pos = -257;
+over = -10;
+pos = -247;
 },
 {
 }
@@ -424,8 +427,8 @@ pos = 520;
 over = -10;
 },
 {
-over = 10;
-pos = -257;
+over = -10;
+pos = -247;
 },
 {
 }
