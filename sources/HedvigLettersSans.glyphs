@@ -1,5 +1,5 @@
 {
-.appVersion = "3410";
+.appVersion = "3516";
 .formatVersion = 3;
 axes = (
 {
@@ -19038,20 +19038,20 @@ value = "Alexander Örn & Tor Weibull";
 },
 {
 key = designerURL;
-value = "http://www.kanonfoundry.com";
+value = "https://www.kanonfoundry.com";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -19064,7 +19064,7 @@ value = "Kanon Foundry";
 },
 {
 key = manufacturerURL;
-value = "http://www.kanonfoundry.com";
+value = "https://www.kanonfoundry.com";
 },
 {
 key = trademarks;
