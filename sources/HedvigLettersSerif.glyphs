@@ -23542,6 +23542,34 @@ width = 587;
 );
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = "CFBFE906-6BC9-42DE-B086-7F9578F7A428";
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = "CFBFE906-6BC9-42DE-B086-7F9578F7A428";
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 color = 6;
 glyphname = period;
 kernLeft = period;
