@@ -2,4 +2,5 @@ sources:
   - HedvigLettersSans.glyphs
 buildVariable: false
 familyName: "Hedvig Letters Sans"
+cleanUp: true
 outputDir: ../fonts/HedvigLettersSans

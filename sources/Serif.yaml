@@ -3,6 +3,7 @@ sources:
 buildVariable: true
 familyName: "Hedvig Letters Serif"
 outputDir: ../fonts/HedvigLettersSerif
+cleanUp: true
 axisOrder:
   - opsz
   - wght
